@@ -1,0 +1,11 @@
+import 'dart:io';
+void main(){
+list<int> num=[3,5,8,3,9];
+print(num.length);
+
+
+// int i,sum;
+// for(i=0; i<)
+
+
+}
